@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/laurivalkola/AzureWorkflowPipeline/_apis/build/status/LauriValkola.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/laurivalkola/AzureWorkflowPipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
